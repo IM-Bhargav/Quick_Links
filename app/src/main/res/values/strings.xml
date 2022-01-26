@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quick Links</string>
+    <string name="link"><a href="https://www.google.com">Goo</a></string>
+</resources>
